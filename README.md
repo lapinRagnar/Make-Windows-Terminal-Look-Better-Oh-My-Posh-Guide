@@ -10,6 +10,9 @@ https://ohmyposh.dev/
 - terminal icons
 https://github.com/devblackops/Terminal-Icons
 
+### lien du tuto
+https://www.youtube.com/watch?v=8Vicu-cDVdI
+
 ## customiser oh my posh
 
 ```
