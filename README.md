@@ -9,3 +9,12 @@ https://github.com/ryanoasis/nerd-fonts/
 https://ohmyposh.dev/
 - terminal icons
 https://github.com/devblackops/Terminal-Icons
+
+## customiser oh my posh
+
+```
+$env:POSH_THEMES_PATH
+C:\Users\lapin\AppData\Local\Programs\oh-my-posh\themes
+```
+
+
