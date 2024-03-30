@@ -7,3 +7,5 @@ https://windowsterminalthemes.dev/
 https://github.com/ryanoasis/nerd-fonts/
 - oh my posh
 https://ohmyposh.dev/
+- terminal icons
+https://github.com/devblackops/Terminal-Icons
